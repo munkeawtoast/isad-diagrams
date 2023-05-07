@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QXUWw4qgNaXc8lpuy3kd" name="Page-1">
-        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="732" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -104,6 +104,12 @@
                         <mxPoint x="340" y="170" as="sourcePoint"/>
                         <mxPoint x="410" y="170" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="MoNL0a7mYaRyrLPneAmR-1" value="viewDurian()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="130" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="dn7c247GMeIHRFCwa1_Z-1" value="showDurian()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="130" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
