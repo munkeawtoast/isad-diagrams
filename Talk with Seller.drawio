@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="7DFtKEh5_p9kltmBa2Tw" name="Page-1">
-        <mxGraphModel dx="755" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="618" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,7 +10,7 @@
                 <mxCell id="2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;" parent="1" vertex="1">
                     <mxGeometry x="40" y="50" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;Control&amp;gt;&amp;gt;&lt;br&gt;ChatControl&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;ChatControl&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="62.5" width="110" height="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;ChatBot&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
                 <mxCell id="27" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;RequestToTalk()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="80" y="170" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;Boundary&amp;gt;&amp;gt;&lt;br&gt;Chat_Assist&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="29" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;Chat_Assist&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="138.83999999999997" y="62.5" width="110" height="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="getRequest()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
@@ -166,7 +166,7 @@
                         <mxPoint x="193" y="410" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="89" value="" style="endArrow=none;dashed=1;html=1;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="59">
+                <mxCell id="89" value="" style="endArrow=none;dashed=1;html=1;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="59" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="330" y="510" as="sourcePoint"/>
                         <mxPoint x="331" y="340" as="targetPoint"/>
@@ -217,32 +217,32 @@
                 <mxCell id="ckK9fQbXKHIgY1zpxQy0-141" value="&lt;p style=&quot;font-size: 6px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ShowNoticeAccept()&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if The seller don't accept the request show '&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;ขณะนี้ผู้ขายไม่สะดวกตอบรับคำขอของคุณ โปรดติดต่อมาภายหลัง ขออภัย ณ ที่นี้'&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 6px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;rotation=0;" parent="1" vertex="1">
                     <mxGeometry x="75" y="360" width="490" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="92" value="" style="endArrow=classic;html=1;fontSize=9;" edge="1" parent="1">
+                <mxCell id="92" value="" style="endArrow=classic;html=1;fontSize=9;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="740" y="530" as="sourcePoint"/>
                         <mxPoint x="340" y="530" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="93" value="sentStop()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="93" value="sentStop()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="485" y="510" width="70" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" value="" style="endArrow=classic;html=1;fontSize=9;exitX=1.081;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.044;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="59">
+                <mxCell id="96" value="" style="endArrow=classic;html=1;fontSize=9;exitX=1.081;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.044;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="59" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="470.00000000000017" y="300.15999999999985" as="sourcePoint"/>
                         <mxPoint x="340" y="300" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="97" value="sentAccept()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="97" value="sentAccept()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="370" y="280" width="70" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="327.31" y="510" width="7.69" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="bHsf_Yw558N5BjeoyOfO" name="Page-2">
-        <mxGraphModel dx="711" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="618" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -294,7 +294,7 @@
                 <mxCell id="YU1fAD_1bImMDeSa4DzT-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1. RequestToTalk()&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="185" y="209.16999999999996" width="100" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="9kQ4cbHlTxxGqjxaAjCV-1" style="edgeStyle=none;html=1;entryX=0.098;entryY=0.815;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.959;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YU1fAD_1bImMDeSa4DzT-14" target="YU1fAD_1bImMDeSa4DzT-1">
+                <mxCell id="9kQ4cbHlTxxGqjxaAjCV-1" style="edgeStyle=none;html=1;entryX=0.098;entryY=0.815;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.959;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YU1fAD_1bImMDeSa4DzT-14" target="YU1fAD_1bImMDeSa4DzT-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="YU1fAD_1bImMDeSa4DzT-14" value="CallCahtBot" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -372,19 +372,19 @@
                         <mxPoint x="154.66999999999993" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="fEOYaNBZa6U-HUe8NQol-1" value="3.1. sentStop()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=#F0F0F0;" vertex="1" parent="1">
+                <mxCell id="fEOYaNBZa6U-HUe8NQol-1" value="3.1. sentStop()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=#F0F0F0;" parent="1" vertex="1">
                     <mxGeometry x="280" y="330" width="80" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="gJYAR2MShRmrPGII1M7j-1" value="1.6. returnAccept&lt;br&gt;3.2. returnChatbot()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=#F0F0F0;" vertex="1" parent="1">
+                <mxCell id="gJYAR2MShRmrPGII1M7j-1" value="1.6. returnAccept&lt;br&gt;3.2. returnChatbot()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=#F0F0F0;" parent="1" vertex="1">
                     <mxGeometry x="450.01" y="260" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="gJYAR2MShRmrPGII1M7j-2" value="" style="endArrow=classic;html=1;fontSize=9;" edge="1" parent="1">
+                <mxCell id="gJYAR2MShRmrPGII1M7j-2" value="" style="endArrow=classic;html=1;fontSize=9;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="565.19" y="260" as="sourcePoint"/>
                         <mxPoint x="444.82" y="260" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="U_ucSt9g_ymXhpxvqZqv-1" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=9;fontColor=#F0F0F0;" edge="1" parent="1">
+                <mxCell id="U_ucSt9g_ymXhpxvqZqv-1" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=9;fontColor=#F0F0F0;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="235" y="400" as="sourcePoint"/>
                         <mxPoint x="490" y="300" as="targetPoint"/>
