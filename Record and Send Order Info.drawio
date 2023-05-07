@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="d7DA9e-ZoQoR7S19mL9e" name="Page-1">
-        <mxGraphModel dx="911" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="813" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -23,7 +23,7 @@
                         <mxPoint x="475.27214999999995" y="270.0400000000001" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="BdFzPddjRFI9rzDZ6x4a-2" value="saveOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="R_9evqG5vvpmDH1AVUTq-4">
+                <mxCell id="BdFzPddjRFI9rzDZ6x4a-2" value="saveOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R_9evqG5vvpmDH1AVUTq-4">
                     <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
                         <mxPoint y="-11" as="offset"/>
                     </mxGeometry>
@@ -57,7 +57,7 @@
                         <mxPoint x="540" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="-LWux3kEELFX-C1XBdSF-7" value="sendOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="-LWux3kEELFX-C1XBdSF-6">
+                <mxCell id="-LWux3kEELFX-C1XBdSF-7" value="sendOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-LWux3kEELFX-C1XBdSF-6">
                     <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
                         <mxPoint y="-11" as="offset"/>
                     </mxGeometry>
@@ -68,7 +68,7 @@
                         <mxPoint x="271.15" y="379.3" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="-LWux3kEELFX-C1XBdSF-10" value="sendParcelInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="-LWux3kEELFX-C1XBdSF-9">
+                <mxCell id="-LWux3kEELFX-C1XBdSF-10" value="sendParcelInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-LWux3kEELFX-C1XBdSF-9">
                     <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
                         <mxPoint y="-11" as="offset"/>
                     </mxGeometry>
@@ -101,7 +101,7 @@
                         <mxPoint x="671.16" y="339.31" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="yQWUHaEu1AzjATWj--xY-9" value="sendOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="yQWUHaEu1AzjATWj--xY-8">
+                <mxCell id="yQWUHaEu1AzjATWj--xY-9" value="sendOrderInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQWUHaEu1AzjATWj--xY-8">
                     <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
                         <mxPoint y="-11" as="offset"/>
                     </mxGeometry>
@@ -112,7 +112,7 @@
                         <mxPoint x="550" y="370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="yQWUHaEu1AzjATWj--xY-11" value="sendParcelInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="yQWUHaEu1AzjATWj--xY-10">
+                <mxCell id="yQWUHaEu1AzjATWj--xY-11" value="sendParcelInfo()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yQWUHaEu1AzjATWj--xY-10">
                     <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
                         <mxPoint y="-11" as="offset"/>
                     </mxGeometry>
@@ -131,7 +131,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="bQvOhUf0G1NQ7vQhY-_J" name="Page-2">
-        <mxGraphModel dx="683" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="976" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>

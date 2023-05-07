@@ -1107,12 +1107,17 @@
                 </mxCell>
                 <mxCell id="227" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="50" y="1520" as="sourcePoint"/>
-                        <mxPoint x="50" y="1580" as="targetPoint"/>
+                        <mxPoint x="60" y="1520" as="sourcePoint"/>
+                        <mxPoint x="60" y="1580" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="30" y="1520"/>
-                            <mxPoint x="30" y="1580"/>
+                            <mxPoint x="40" y="1520"/>
+                            <mxPoint x="40" y="1580"/>
                         </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="228" value="calculateDeliveryPrice()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="227">
+                    <mxGeometry x="0.212" y="1" relative="1" as="geometry">
+                        <mxPoint x="-11" y="-11" as="offset"/>
                     </mxGeometry>
                 </mxCell>
             </root>
