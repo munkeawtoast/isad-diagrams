@@ -726,11 +726,14 @@
                         <mxPoint x="480" y="449.9200000000001" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="vIsUGnYjeyWR5nqQjUpX-2" value="SetConfirm()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="500" width="70" height="20" as="geometry"/>
+                <mxCell id="vIsUGnYjeyWR5nqQjUpX-2" value="14.1 SetConfirm()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="500" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="vIsUGnYjeyWR5nqQjUpX-4" value="Confirmed()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="410" y="500" width="70" height="20" as="geometry"/>
+                <mxCell id="4jKtGi-DR9FJVpKRMxoU-1" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="vIsUGnYjeyWR5nqQjUpX-4" target="vIsUGnYjeyWR5nqQjUpX-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vIsUGnYjeyWR5nqQjUpX-4" value="14 Confirmed()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="500" width="80" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="uWea9SCXxeVd7uDbKpxR-8" value="" style="endArrow=classic;html=1;fontSize=9;exitX=1.081;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -756,35 +759,29 @@
                         <mxPoint x="100" y="410" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="-u9hTili4GrJwT_OY7ov-1" value="2.1.SentData()&lt;br&gt;SendReserveOrder()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="540" y="410" width="110" height="40" as="geometry"/>
+                <mxCell id="-u9hTili4GrJwT_OY7ov-1" value="2.1.SentData()&lt;br&gt;10.1 SendReserveOrder()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="410" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="-u9hTili4GrJwT_OY7ov-2" value="2. ViewStock()&lt;br&gt;ReserveOrder()&lt;br&gt;CutStock()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="550" y="335" width="90" height="50" as="geometry"/>
+                <mxCell id="-u9hTili4GrJwT_OY7ov-2" value="2. ViewStock()&lt;br&gt;10. ReserveOrder()&lt;br&gt;14. CutStock()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="340" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="cuDeF6JDOxNH5qxNK8lC-1" value="1. CreateOrder()&lt;br&gt;4. ChooseTpye()&lt;br&gt;6. ChooseVarieties()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="105" y="330" width="100" height="50" as="geometry"/>
+                <mxCell id="cuDeF6JDOxNH5qxNK8lC-1" value="1. CreateOrder()&lt;br&gt;4. ChooseTpye()&lt;br&gt;6. ChooseVarieties()&lt;br&gt;8.&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;11.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;13.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SetConfirm()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="285" width="110" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="GXf_9yQOvV_jir32JExM-1" value="1.1 CreateOrder()&lt;br&gt;4.1 ChooseTpye()&lt;br&gt;6.1 ChooseVarieties()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="325" y="330" width="110" height="50" as="geometry"/>
+                <mxCell id="GXf_9yQOvV_jir32JExM-1" value="1.1 CreateOrder()&lt;br&gt;4.1 ChooseTpye()&lt;br&gt;6.1 ChooseVarieties()&lt;br&gt;8.1&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;11.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;13.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SetConfirm()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="290" width="110" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="OuBaIrrbZaKWNwU3vuSv-1" value="3 RequestChoice()&lt;br&gt;4.2 ChooseTpye()&lt;br&gt;6.2 ChooseVarieties()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="160" width="110" height="50" as="geometry"/>
+                <mxCell id="OuBaIrrbZaKWNwU3vuSv-1" value="3. RequestChoice()&lt;br&gt;4.2 ChooseTpye()&lt;br&gt;6.2 ChooseVarieties()&lt;br&gt;8.2&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;10.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;GetForms()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;11.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="145" width="110" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="4X5n9Lfky0MZglpiEUMI-1" value="3.1 SendType()&lt;br&gt;5. SendVarieties()&lt;br&gt;7.&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;SendDurian()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="155" width="90" height="50" as="geometry"/>
+                <mxCell id="4X5n9Lfky0MZglpiEUMI-1" value="3.1 SendType()&lt;br&gt;5. SendVarieties()&lt;br&gt;7.&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;SendDurian()&lt;br&gt;9.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendOrder()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;10.3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendForms()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;ShowOrder()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="140" width="100" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="LAoilq3IOThFhljV5zhz-1" value="3.2 SendType()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="330" y="430" width="90" height="20" as="geometry"/>
+                <mxCell id="LAoilq3IOThFhljV5zhz-1" value="3.2 SendType()&lt;br&gt;5.1 SendVarieties()&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SendDurian()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;10.4 SendForms()&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;12.1 ShowOrder()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="420" width="100" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="LAoilq3IOThFhljV5zhz-4" value="3.3 SendType()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="110" y="410" width="90" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="Y22ujSx_AEUsnDoEsRnC-2" value="5.1 SendVarieties()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="325" y="480" width="100" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="Y22ujSx_AEUsnDoEsRnC-3" value="5.2 SendVarieties()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="105" y="430" width="100" height="20" as="geometry"/>
+                <mxCell id="LAoilq3IOThFhljV5zhz-4" value="3.3 SendType()&lt;br&gt;5.2 SendVarieties()&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SendDurian()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10.5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendForms()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;12.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;ShowOrder()&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="420" width="100" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
