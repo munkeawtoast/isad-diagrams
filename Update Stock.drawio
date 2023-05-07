@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="cL9ai_w-RHlp5UJVBhCa" name="Page-1">
-        <mxGraphModel dx="842" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="883" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -26,7 +26,7 @@
                         <mxPoint x="410" y="160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="35" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;&amp;nbsp;update()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="28" vertex="1" connectable="0">
+                <mxCell id="35" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;&amp;nbsp;update()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="28" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint x="-16" y="-12" as="offset"/>
                     </mxGeometry>
@@ -42,7 +42,7 @@
                         <mxPoint x="410" y="370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;confirm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="52" vertex="1" connectable="0">
+                <mxCell id="53" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;confirm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="52" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint y="-18" as="offset"/>
                     </mxGeometry>
@@ -53,7 +53,7 @@
                         <mxPoint x="610" y="385" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;&amp;nbsp;updateProduct()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="54" vertex="1" connectable="0">
+                <mxCell id="55" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;updateProduct()&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=none;" parent="54" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint y="-13" as="offset"/>
                     </mxGeometry>
@@ -90,7 +90,7 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="107" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;&amp;nbsp;confirm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="106" vertex="1" connectable="0">
+                <mxCell id="107" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;&amp;nbsp;confirm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="106" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint x="-1" y="-15" as="offset"/>
                     </mxGeometry>
@@ -101,7 +101,7 @@
                         <mxPoint x="200" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="120" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;update()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="119" vertex="1" connectable="0">
+                <mxCell id="120" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;update()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="119" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint x="-9" y="-15" as="offset"/>
                     </mxGeometry>
@@ -121,7 +121,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="140" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;&amp;nbsp;checkUpdatedProduct()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="139" vertex="1" connectable="0">
+                <mxCell id="140" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;&amp;nbsp;checkUpdatedProduct()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="139" vertex="1" connectable="0">
                     <mxGeometry x="0.0852" y="-3" relative="1" as="geometry">
                         <mxPoint x="57" y="-7" as="offset"/>
                     </mxGeometry>
@@ -180,7 +180,7 @@
                 <mxCell id="221" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4. sentUpdatedForm()&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Tahoma;strokeWidth=0;" parent="1" vertex="1">
                     <mxGeometry x="395" y="580" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="222" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Tahoma; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5. updatedForm()&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;" parent="1" vertex="1">
+                <mxCell id="222" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;5. updatedForm()&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="189" y="580" width="130" height="25" as="geometry"/>
                 </mxCell>
                 <mxCell id="227" value="" style="endArrow=classic;html=1;fontFamily=Tahoma;" parent="1" edge="1">
@@ -243,15 +243,15 @@
                 <mxCell id="264" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
                     <mxGeometry x="408" y="212.02" width="33.5" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="267" value="" style="endArrow=classic;html=1;jumpSize=6;exitX=0.901;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                <mxCell id="267" value="" style="endArrow=classic;html=1;jumpSize=6;exitX=0.901;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=none;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="412.9725" y="250.00489000000002" as="sourcePoint"/>
                         <mxPoint x="218.14" y="250.46" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="268" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;&amp;nbsp;sentUpdatedForm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="267" vertex="1" connectable="0">
+                <mxCell id="268" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;&amp;nbsp;sentUpdatedForm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="267" vertex="1" connectable="0">
                     <mxGeometry x="0.1234" relative="1" as="geometry">
-                        <mxPoint x="5" y="-10" as="offset"/>
+                        <mxPoint x="6" y="-10" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="269" value="" style="endArrow=classic;html=1;jumpSize=6;exitX=0.901;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -265,15 +265,18 @@
                         <mxPoint x="5" y="-10" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="274" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left; background-color: rgb(42, 37, 47);&quot;&gt;updatedForm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="269" vertex="1" connectable="0">
+                <mxCell id="274" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; text-align: left;&quot;&gt;updatedForm()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="269" vertex="1" connectable="0">
                     <mxGeometry x="-0.0719" y="-1" relative="1" as="geometry">
                         <mxPoint x="-5" y="-7" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="280" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;SellerUpdatePanel&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                <mxCell id="292" style="edgeStyle=none;html=1;entryX=-0.007;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="280" target="285">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="280" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;SellerUpdatePanel&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" parent="1" vertex="1">
                     <mxGeometry x="97.2" y="930" width="140" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="281" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="280">
+                <mxCell id="281" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="280" vertex="1">
                     <mxGeometry y="40" width="140" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="231" value="// get UpdatedForm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0;fontFamily=Tahoma;fontSize=10;" parent="280" vertex="1">
@@ -282,10 +285,10 @@
                 <mxCell id="232" value="// show UpdateForm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0;fontFamily=Tahoma;fontSize=10;" parent="280" vertex="1">
                     <mxGeometry y="74" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="285" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;UpdateStockControl&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                <mxCell id="285" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;UpdateStockControl&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" parent="1" vertex="1">
                     <mxGeometry x="279.43" y="930" width="140" height="126" as="geometry"/>
                 </mxCell>
-                <mxCell id="286" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="285">
+                <mxCell id="286" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="285" vertex="1">
                     <mxGeometry y="40" width="140" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="237" value="// set UpdatedForm()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0;fontFamily=Tahoma;fontSize=10;" parent="285" vertex="1">
@@ -297,16 +300,16 @@
                 <mxCell id="235" value="// get Update()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0;fontFamily=Tahoma;fontSize=10;" parent="285" vertex="1">
                     <mxGeometry y="100" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="288" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;ProductStock&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
+                <mxCell id="288" value="&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-family: Tahoma; font-size: 10px; font-weight: 700;&quot;&gt;ProductStock&lt;/span&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" parent="1" vertex="1">
                     <mxGeometry x="450" y="930" width="140" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="289" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="288">
+                <mxCell id="289" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="288" vertex="1">
                     <mxGeometry y="40" width="140" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="240" value="// update Product()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0;fontFamily=Tahoma;fontSize=10;" parent="288" vertex="1">
                     <mxGeometry y="48" width="140" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="291" value="If you don't confirm, you will cancel the edit of the product information." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+                <mxCell id="291" value="If you don't confirm, you will cancel the edit of the product information." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="65" y="520" width="360" height="30" as="geometry"/>
                 </mxCell>
             </root>

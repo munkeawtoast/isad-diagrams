@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="RNaWkuKRxEJbEr7aYnWs" name="Sequence Diagram">
-        <mxGraphModel dx="939" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="789" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -326,7 +326,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="55" value="SendDurian()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-                    <mxGeometry x="255" y="680" width="80" height="20" as="geometry"/>
+                    <mxGeometry x="250" y="680" width="80" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" value="" style="endArrow=classic;html=1;fontSize=9;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -634,11 +634,17 @@
                 <mxCell id="osTkiTJk4CAb8E28aG8k-161" value="Confirmed()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
                     <mxGeometry x="510" y="1300" width="70" height="20" as="geometry"/>
                 </mxCell>
+                <mxCell id="jbTF4x89PD6NRZbTBLKt-131" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Alternative flow&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=20;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeWidth=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1045" width="360" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="HpFf7ICT726GT3wwcx-c-131" value="If the delivery information is not the actual address or within &lt;br&gt;the service area notify new deliveryIf the delivery information is not the actual address &lt;br&gt;or within the service area notify new delivery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=9;fontColor=#990000;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="1090" width="360" height="50" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="Y75Kf4f4q_eGGughY2cu" name="Collaboration Diagram">
-        <mxGraphModel dx="986" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="857" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -727,13 +733,10 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="vIsUGnYjeyWR5nqQjUpX-2" value="14.1 SetConfirm()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="490" y="500" width="90" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="4jKtGi-DR9FJVpKRMxoU-1" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="vIsUGnYjeyWR5nqQjUpX-4" target="vIsUGnYjeyWR5nqQjUpX-2">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry x="500" y="510" width="90" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="vIsUGnYjeyWR5nqQjUpX-4" value="14 Confirmed()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="405" y="500" width="80" height="20" as="geometry"/>
+                    <mxGeometry x="400" y="510" width="80" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="uWea9SCXxeVd7uDbKpxR-8" value="" style="endArrow=classic;html=1;fontSize=9;exitX=1.081;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -762,20 +765,20 @@
                 <mxCell id="-u9hTili4GrJwT_OY7ov-1" value="2.1.SentData()&lt;br&gt;10.1 SendReserveOrder()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
                     <mxGeometry x="550" y="410" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="-u9hTili4GrJwT_OY7ov-2" value="2. ViewStock()&lt;br&gt;10. ReserveOrder()&lt;br&gt;14. CutStock()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+                <mxCell id="-u9hTili4GrJwT_OY7ov-2" value="2. ViewStock()&lt;br&gt;10. ReserveOrder()&lt;br&gt;14.2 CutStock()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
                     <mxGeometry x="550" y="340" width="100" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="cuDeF6JDOxNH5qxNK8lC-1" value="1. CreateOrder()&lt;br&gt;4. ChooseTpye()&lt;br&gt;6. ChooseVarieties()&lt;br&gt;8.&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;11.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;13.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SetConfirm()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="285" width="110" height="80" as="geometry"/>
+                    <mxGeometry x="100" y="310" width="110" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="GXf_9yQOvV_jir32JExM-1" value="1.1 CreateOrder()&lt;br&gt;4.1 ChooseTpye()&lt;br&gt;6.1 ChooseVarieties()&lt;br&gt;8.1&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;11.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;13.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SetConfirm()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="315" y="290" width="110" height="80" as="geometry"/>
+                    <mxGeometry x="325" y="310" width="110" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="OuBaIrrbZaKWNwU3vuSv-1" value="3. RequestChoice()&lt;br&gt;4.2 ChooseTpye()&lt;br&gt;6.2 ChooseVarieties()&lt;br&gt;8.2&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;ChooseDurian()&lt;br&gt;10.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;GetForms()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;11.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendInformation()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="145" width="110" height="80" as="geometry"/>
+                    <mxGeometry x="370" y="180" width="110" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="4X5n9Lfky0MZglpiEUMI-1" value="3.1 SendType()&lt;br&gt;5. SendVarieties()&lt;br&gt;7.&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;SendDurian()&lt;br&gt;9.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendOrder()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;10.3&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;SendForms()&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;12.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;ShowOrder()&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="140" width="100" height="80" as="geometry"/>
+                    <mxGeometry x="520" y="180" width="100" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="LAoilq3IOThFhljV5zhz-1" value="3.2 SendType()&lt;br&gt;5.1 SendVarieties()&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SendDurian()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;10.4 SendForms()&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;12.1 ShowOrder()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
                     <mxGeometry x="335" y="420" width="100" height="70" as="geometry"/>

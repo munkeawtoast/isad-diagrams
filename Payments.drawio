@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="tjWmgUEGdXFaHl7p6g_r" name="Page-1">
-        <mxGraphModel dx="286" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1100,9 +1100,19 @@
                         <mxPoint x="470" y="654.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="226" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Exception Path&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;- &lt;font style=&quot;font-size: 7px;&quot; face=&quot;Arial&quot;&gt;The system will kick the customer out to create new order&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Arial&quot;&gt;if they stay too long.&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#CC0000;" vertex="1" connectable="0" parent="225">
+                <mxCell id="226" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Exception Path&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;- &lt;font style=&quot;font-size: 7px;&quot; face=&quot;Arial&quot;&gt;The system will kick the customer out to create new order&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Arial&quot;&gt;if they stay too long.&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#CC0000;" connectable="0" vertex="1" parent="225">
                     <mxGeometry x="0.2209" y="2" relative="1" as="geometry">
                         <mxPoint x="18" y="14" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="227" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="50" y="1520" as="sourcePoint"/>
+                        <mxPoint x="50" y="1580" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="30" y="1520"/>
+                            <mxPoint x="30" y="1580"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
             </root>
